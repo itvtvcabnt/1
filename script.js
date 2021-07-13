@@ -21,9 +21,9 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Dig Didzay",
-		name: "Nếu Anh Đi (Cover)",
-		url: "Musics/NeuAnhDi.mp3",
+		artist: "Shayla",
+		name: "Mambo Italiano",
+		url: "file://doanvu.duckdns.org/Music/Asia 099 - Various Artists - Best Of ChaChaCha (1997) [WAV]/02. Mambo Italiano - Shayla.wav",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
